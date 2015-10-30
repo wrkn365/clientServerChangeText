@@ -18,7 +18,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Jon Janet 6701505 IT315 5/30/12
+ * @author Jon Janet 
  * Class Client opens a socket and input and output streams to that socket. 
  * It then reads from and writes to the streams according to the server's protocol. 
  * It sends the name of a text file that was entered into the JTextField to the server. 
