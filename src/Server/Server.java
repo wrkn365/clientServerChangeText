@@ -18,7 +18,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author Jon Janet 6701505 IT315 5/30/12 
+ * @author Jon Janet 
  * Class Server opens a socket and an input and output stream to that socket. 
  * It then listens for a client to connect and send the name of a text file. 
  * If it exists the server sends the contents of the text file back to the client. 
